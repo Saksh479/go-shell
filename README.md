@@ -46,13 +46,6 @@ Enter command: echo "Hello, World!"
 Enter command: exit
 ```
 
-## Testing
-
-Run the test suite to verify functionality:
-
-```bash
-go test
-```
 
 ## Requirements
 
